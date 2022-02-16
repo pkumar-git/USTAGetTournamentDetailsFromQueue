@@ -1,5 +1,5 @@
 {
-  "name": "GetTournamentDetailsFromQueue",
+  "name": "USTAGetTournamentDetailsFromQueue",
   "description": "Read tournament URLs from Orchestrator queue, get their details from USTA website, write details of all tournaments to an Excel file.",
   "main": "Main.xaml",
   "dependencies": {

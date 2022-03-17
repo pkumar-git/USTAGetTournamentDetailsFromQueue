@@ -1,6 +1,6 @@
 # USTAGetTournamentDetailsFromQueue
-This UiPath application retrieves USTA tournament details for each USTA tournament URL added by a separate
-dispatcher application to the Orchestrator queue. It retrieves details like tournament level, name, venue, 
+This UiPath application retrieves USTA tournament details for each USTA tournament URL (added to the queue by a separate
+dispatcher application) found in the Orchestrator queue. It retrieves details like tournament level, name, venue, 
 deadline information etc and stores the details in an Excel sheet.  The Excel file is saved in the 
 C:\Users\pdksa\Documents\Tournaments\USTA folder.
 

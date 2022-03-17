@@ -4,7 +4,7 @@ dispatcher application to the Orchestrator queue. It retrieves details like tour
 deadline information etc and stores the details in an Excel sheet.  The Excel file is saved in the 
 C:\Users\pdksa\Documents\Tournaments\USTA folder.
 
-It is built using the UiPath Robotic Enterprise Framework. It requires the latest USTALibrary package to be 
+It is built using the UiPath Robotic Enterprise Framework. It requires the latest USTALibrary package (available on https://github.com/pkumar-git) to be 
 available. It uses Chrome browser to access the USTA website.
 
 Currently it retrieves only junior tournaments for the "18 and under" age division, though it is a straightforward 
